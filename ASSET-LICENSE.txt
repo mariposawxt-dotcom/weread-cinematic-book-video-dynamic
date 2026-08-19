@@ -1,0 +1,13 @@
+# Asset notice
+
+The bundled PNG and WAV files are runtime assets for this Skill. The WAV files
+are AI-assisted re-syntheses created for this repository from an
+author-provided AI-generated reference. The opening image is supplied by the
+repository owner.
+
+The repository owner is responsible for confirming that the relevant
+generating tools and source materials permit redistribution. This notice is
+not a representation of third-party ownership and is not a substitute for
+those tool terms. If you redistribute the assets separately, preserve this
+notice and verify the applicable rights first.
+
