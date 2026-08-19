@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信读书电影感视频·动态资源版"
+  short_description: "输入书名和一条完整配音，使用默认首屏与新版音效导出电影感读书视频"
+  default_prompt: "Use $weread-cinematic-book-video-dynamic with a confirmed book title and one complete uploaded narration video/audio; use the bundled default opening and approved generated sound effects, split the audio automatically, and create a cinematic WeRead video."
